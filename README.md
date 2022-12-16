@@ -1,10 +1,9 @@
-# Getting Started with Create React App
+# Counter React Typescript App
 
 
-Demo
+Demo:
 
-![image](https://user-images.githubusercontent.com/44308860/208033082-a30e62d0-d77b-439f-b5c5-cde53e451907.png)
-
+![image](https://user-images.githubusercontent.com/44308860/208033207-e7dbe0d1-2121-41a9-b187-5a1f059a2079.png)
 
 ## Available Scripts
 
