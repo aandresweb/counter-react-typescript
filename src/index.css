@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: white;
+}
+
+input {
+  padding: 8px;
+  border: 1px solid rgb(100, 101, 111);
+}
+button {
+  background-color: rgb(100, 101, 111);
+  padding: 8px;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+button:hover {
+  background-color: rgb(52, 52, 57);
+}
+
+input,
+button {
+  border-radius: 10px;
+}
+
+.actionGroup {
+  width: 80%;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+.actionGroup input {
+  margin-bottom: 5px;
+}
+.actionGroup input,
+.actionGroup button {
+  display: block;
+  width: 100%;
+}
